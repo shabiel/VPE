@@ -42,8 +42,7 @@ if you wish to change the colors, choose `9. Configure Syntax....`. Note that
 the latter only apprers only if Syntax Highlighting is toggled on from option 8.
 Many thanks to David Wicksell for writing the Syntax Highlighter.
 
-The VPE manual can be found here:
-http://www.pioneerdatasys.com/hardhats/VPEUSER.pdf. Since the original VPE
+The VPE manual can be found [here](docs/VPEUSER.pdf). Since the original VPE
 manual has been written, VPE has been moved to XVEM from %ZVEM or ZVEM.
 Therefore, any references to %ZVEM or ZVEM should be changed to XVEM.
 
